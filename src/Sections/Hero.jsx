@@ -127,7 +127,7 @@ const Hero = () => {
               />
               <div className="relative glass rounded-3xl p-2 glow-border">
                 <img
-                  src="profil.png"
+                  src="profile.png"
                   alt="Golam Rabbi"
                   className="w-full aspect-[4/5] object-cover rounded-2xl"
                 />
